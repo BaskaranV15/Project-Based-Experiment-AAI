@@ -38,7 +38,7 @@ for post in data['posts']:
     else:
         neutral_count += 1
 
-print("Occurrences of 'Syed Abdul Wasih':", term_count)
+print("Occurrences of 'BASKARAN':", term_count)
 print("Positive posts:", positive_count)
 print("Negative posts:", negative_count)
 print("Neutral posts:", neutral_count)
