@@ -46,7 +46,8 @@ print("Neutral posts:", neutral_count)
 
 <H3>Output:</H3>
 
-![AII](https://github.com/BaskaranV15/Project-Based-Experiment-AAI/assets/118703522/fbb349e6-edaa-443a-8b47-f04974cbd697)
+
+![AII1](https://github.com/BaskaranV15/Project-Based-Experiment-AAI/assets/118703522/9bd6ded4-e79c-4efd-904e-cc46c4c10a2f)
 
 
 <H3>Inference:</H3>
